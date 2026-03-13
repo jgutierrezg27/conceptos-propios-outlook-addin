@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="outlook-addin"/>
+  <DisplayName DefaultValue="CONCEPTOS PROPIOS"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-128.png"/>
