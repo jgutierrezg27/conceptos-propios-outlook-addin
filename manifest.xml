@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="CONCEPTOS PROPIOS"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-128.png"/>
+  <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
@@ -91,9 +91,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/commands.html"/>
