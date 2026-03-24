@@ -5,7 +5,7 @@
   <ProviderName>COLEGIATURA_T.I</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="CONCEPTOS PROPIOS"/>
-  <Description DefaultValue="A template to get started."/>
+  <Description DefaultValue="COLEGIATURA"/>
   <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/help"/>
