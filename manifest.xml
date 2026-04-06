@@ -7,7 +7,7 @@
   <DisplayName DefaultValue="Conceptos Propios"/>
   <Description DefaultValue="COLEGIATURA."/>
   <IconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/icon-128.png"/>
+  <HighResolutionIconUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://jgutierrezg27.github.io/conceptos-propios-outlook-addin/help"/>
   <AppDomains>
     <AppDomain>https://jgutierrezg27.github.io/conceptos-propios-outlook-addin</AppDomain>
